@@ -3,12 +3,12 @@ This dataset contains 20 features that create the most impact on the Stress of a
 
 The data was fitted into 5 different models that are listed below along with their predicted accuracies.
 
-    Logistic Regression - 99%
+* Logistic Regression - 99%
 
-    Random Forest Classifier - 98%
+* Random Forest Classifier - 98%
     
-    Decision Tree Classifier - 100% 
+* Decision Tree Classifier - 100% 
     
-    K-NN Algorithm - 89%
+* K-NN Algorithm - 89%
     
-    Naive Bayes Gaussian Model - 100% 
+* Naive Bayes Gaussian Model - 100% 
